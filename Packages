@@ -297,11 +297,11 @@ Maintainer: HHNiOS
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./DEB/com.hhnios.libantiban_0.1.0_iphoneos-arm.deb
-Size: 67584
-MD5sum: 32c70aafe3cf1ac3f96857f9ae71cab0
-SHA1: adc40da7889ffe2163d1ad8005e9a856daa68ef9
-SHA256: 3ec6e405efcea67e7789c3213be856f6bc449cdbe5bb79fbd6dabfa2f81dee36
-SHA512: 042bcda6eca77eb0e1de3e4970f619e2f38fa32724b8eb91f9a49ff0d612916b64d5afc18ed983270475972f59ad6d3e3002d5390c51f29ec846581294572134
+Size: 68220
+MD5sum: c3b1324ae064215ae26e84216bb656b5
+SHA1: 38865849ddb07c74e195b38ffb9fa6b6e7250dc0
+SHA256: f18ff51469427b598c2bb6f6d1793f920dde35d650b6b3b32d6fc379a4329a2b
+SHA512: 8651a802d165d9df3ca9da7ba40a95cc8497f7be84c868e161c3621173fd9c850be5e4146a8b15c0c9151ad6fd84a88d57b5509bbb24f32eb15562614a3a86af
 Homepage: https://hhnios.github.io
 Description: Liên Quân Mod Menu by HHNiOS!
 Name: Libantiban
@@ -323,6 +323,27 @@ MD5sum: 58d8afaf0b4208a826efd08428f53171
 SHA1: dcd207a45b5da65aa29cd1f20cd4abd1b4990c4d
 SHA256: ad4a75adf947df2dac68ee8dc3718be29c22f6987dbf1d22cd5eedc450d4869a
 SHA512: 9639b897155e6c52c42b3829d9eb8f6ee410a39b646798612ae999aca82748fead1838fe5744f3627d76711967abbd876782ea7b78197598082bd6d156b6872e
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Liên Quân Mod Menu
+Author: HHNiOS
+Depiction: https://hhnios.github.io/info/lqhack.html
+SileoDepiction: https://hhnios.github.io/info/lqhack.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.lienquan
+Architecture: iphoneos-arm
+Version: 0.1.5
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 288
+Depends: mobilesubstrate, com.hhnios.libantiban
+Filename: ./DEB/com.hhnios.lienquan_0.1.5_iphoneos-arm.deb
+Size: 81014
+MD5sum: dfef3fbddc9d1a761348b31c73535bf5
+SHA1: d7ab74babcf679aa7fc2e946e801c5cbf01b1d02
+SHA256: fb67b1467a8ed359c5e2def7cd0c080d29d4e6811cad17bfb0f1db04ff54df86
+SHA512: 7c85de26311196c9ebc0d7559523373f0808b7c8482df13d4e6c64526ee2f48bae357f9a4505a2bead5f266e19430f5a0b74fc80bca48e9e92689f3bdfebda5f
 Homepage: https://hhnios.github.io
 Description: Liên Quân Mod Menu by HHNiOS!
 Name: Liên Quân Mod Menu
